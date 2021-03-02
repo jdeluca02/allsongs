@@ -1,66 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type=“text/css” href = “songedits.css” ?>
+<?xml-stylesheet type= “text/css” href = “songedits.css”?>
     
 <SongList>
+    <title> Songs on the Agenda </title>
     <song>
-        <stitle> Venitia </stitle>
-        <artist> Lil Uzi Vert </artist>
-        <genre> Rap </genre>
-        <year> 2020 </year>
+        <stitle> Title: Venitia </stitle>
+        <artist> By: Lil Uzi Vert </artist>
+        <genre> Genre: Rap </genre>
+        <year> Year: 2020 </year>
     </song>
     <song>
-        <stitle> Won't Let Go </stitle>
-        <artist> Juice Wrld </artist>
-        <genre> Rap </genre>
-        <year> 2019 </year>
+        <stitle> Title: Won't Let Go </stitle>
+        <artist> By: Juice Wrld </artist>
+        <genre> Genre: Rap </genre>
+        <year> Year: 2019 </year>
     </song>
     <song>
-        <stitle> Red Lights </stitle>
-        <artist> Tiesto </artist>
-        <genre> EDM </genre>
-        <year> 2014 </year>
+        <stitle> Title: Red Lights </stitle>
+        <artist> By: Tiesto </artist>
+        <genre> Genre: EDM </genre>
+        <year> Year: 2014 </year>
     </song>
     <song>
-        <stitle> Heart in Pieces </stitle>
-        <artist> Lil Uzi Vert </artist>
-        <genre> Rap </genre>
-        <year> 2020 </year>
+        <stitle> Title: Heart in Pieces </stitle>
+        <artist> By: Lil Uzi Vert </artist>
+        <genre> Genre: Rap </genre>
+        <year> Year: 2020 </year>
     </song>
     <song>
-        <stitle> Saint-Tropez </stitle>
-        <artist> Post Malone </artist>
-        <genre> Pop </genre>
-        <year> 2019 </year>
+        <stitle> Title: Saint-Tropez </stitle>
+        <artist> By: Post Malone </artist>
+        <genre> Genre: Pop </genre>
+        <year> Year: 2019 </year>
     </song>
     <song>
-        <stitle> Shot in the Dark </stitle>
-        <artist> AC-DC </artist>
-        <genre> Rock </genre>
-        <year> 1986 </year>
+        <stitle> Title: Shot in the Dark </stitle>
+        <artist> By: AC-DC </artist>
+        <genre> Genre: Rock </genre>
+        <year> Year: 1986 </year>
     </song>
     <song>
-        <stitle> Don't Stop Believin' </stitle>
-        <artist> Journey </artist>
-        <genre> Rock </genre>
-        <year> 1981 </year>
+        <stitle> Title: Don't Stop Believin' </stitle>
+        <artist> By: Journey </artist>
+        <genre> Genre: Rock </genre>
+        <year> Year: 1981 </year>
     </song>
     <song>
-        <stitle> 'Till I Collapse </stitle>
-        <artist> Eminem </artist>
-        <genre> Rap </genre>
-        <year> 2002 </year>
+        <stitle> Title: 'Till I Collapse </stitle>
+        <artist> By: Eminem </artist>
+        <genre> Genre: Rap </genre>
+        <year> Year: 2002 </year>
     </song>
     <song>
-        <stitle> Next Up Forever </stitle>
-        <artist> AJR </artist>
-        <genre> Indie Pop </genre>
-        <year> 2019 </year>
+        <stitle> Title: Next Up Forever </stitle>
+        <artist> By: AJR </artist>
+        <genre> Genre: Indie Pop </genre>
+        <year> Year: 2019 </year>
     </song>
     <song>
-        <stitle> Need It </stitle>
-        <artist> Migos </artist>
-        <genre> Rap </genre>
-        <year> 2020 </year>
+        <stitle> Title: Need It </stitle>
+        <artist> By: Migos </artist>
+        <genre> Genre: Rap </genre>
+        <year> Year: 2020 </year>
     </song>
 
 
