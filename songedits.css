@@ -1,18 +1,23 @@
-song{
+song
+{
     background-color: #80d4ff;
 }
-artist{
+artist
+{
     color: #400080;
 }
-stitle{
+stitle
+{
     color: #660033;
     font-weight: bold;
     font-size: 20px;
     
 }
-genre{
+genre
+{
     color: #004d00;
 }
-year{
+year
+{
     color: #003366;
 }
