@@ -9,6 +9,7 @@ SongList {
     background-color: #80d4ff;
 }
 song{
+    display: block;
     padding: 1px;
 }
 artist {
