@@ -1,27 +1,29 @@
-title{
+title {
     display: block;
     color: 000;
     font-size: 30px;
     text-align: center;
+    padding: 1px;
 }
-SongList{
+SongList {
     background-color: #80d4ff;
 }
-stitle, artist, genre, year{
+stitle, artist, genre, year {
     display: block;
     text-align: center;
+    padding: 1px;
 }
-artist{
+artist {
     color: #400080;
 }
-stitle{
+stitle {
     color: #660033;
     font-weight: bold;
     font-size: 20px;    
 }
-genre{
+genre {
     color: #004d00;
 }
-year{
+year {
     color: #003366;
 }
