@@ -11,21 +11,25 @@ SongList {
 song{
     padding: 1px;
 }
-stitle, artist, genre, year {
-    display: block;
-    text-align: center;
-}
 artist {
     color: #400080;
+    display: block;
+    text-align: center;
 }
 stitle {
     color: #660033;
     font-weight: bold;
-    font-size: 20px;    
+    font-size: 20px;
+    display: block;
+    text-align: center;
 }
 genre {
     color: #004d00;
+    display: block;
+    text-align: center;
 }
 year {
     color: #003366;
+    display: block;
+    text-align: center;
 }
